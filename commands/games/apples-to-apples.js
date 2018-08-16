@@ -5,7 +5,7 @@ const { shuffle } = require('../../util/Util');
 const { awaitPlayers, createJoinLeaveCollector, createLeaderboardCollector } = require('../../util/Collectors');
 const Player = require('../../structures/Player');
 const Deck = require('../../structures/Deck');
-const { greenCards, redCards } = require('../../assets/json/cards-against-humanity');
+const { greenCards, redCards } = require('../../assets/json/apples-to-apples');
 
 module.exports = class ApplesToApplesCommand extends Command {
 	constructor() {
