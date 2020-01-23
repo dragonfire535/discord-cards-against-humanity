@@ -85,10 +85,6 @@
 		},
 		{
 			"pick": 1,
-			"text": "What will finally make Souji accept being a furry?"
-		},
-		{
-			"pick": 1,
 			"text": "pls give me code for _, am new to this."
 		},
 		{
@@ -98,9 +94,29 @@
 		{
 			"pick": 1,
 			"text": "Why code it yourself when you can just use _."
+		},
+		{
+			"pick": 1,
+			"text": "_ broke the library... again."
+		},
+		{
+			"pick": 1,
+			"text": "We know not what will be in v12, but v13 will contain _."
+		},
+		{
+			"pick": 1,
+			"text": "_ caused the latest lockdown in #general."
+		},
+		{
+			"pick": 1,
+			"text": "The closet weeb is _."
 		}
 	],
 	"whiteCards": [
+		"I am French",
+		"My rainbow role bot",
+		"Daro's avatar",
+		"I use google translate",
 		"Discord.",
 		"The forever delayed release of Discord.js v12.",
 		"A noob who thinks their if/else message handler is a bot framework.",
@@ -111,7 +127,7 @@
 		"Crawl.",
 		"The banning of matmen.",
 		"A new version of Discord.js that breaks everything.",
-		"Another month-long break for hydrabolt.",
+		"Another months-long break for hydrabolt.",
 		"Another toxic statement from Recchan.",
 		"Yet another Gus code screenshot.",
 		"Finally transferring Discord.js away from hydrabolt.",
